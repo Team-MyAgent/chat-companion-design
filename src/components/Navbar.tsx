@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-14">
           <Link to="/" className="text-xl font-bold tracking-widest text-foreground">
-            MY AGENT
+            ESSENCE
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
